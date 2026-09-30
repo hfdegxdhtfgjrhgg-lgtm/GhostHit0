@@ -1,0 +1,10 @@
+# FastGhost Configuration
+
+# Maximum reach distance for hit registration (in blocks)
+reach-distance: 4.0
+
+# Enable debug messages in console
+debug: false
+
+# Cancellation settings
+cancel-vanilla-animation: false
