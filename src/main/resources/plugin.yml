@@ -1,0 +1,13 @@
+name: FastGhost
+version: 1.0.0
+main: com.fast.fastghost.FastGhost
+api-version: 1.13
+depend: [ProtocolLib]
+author: FastGhost
+description: Fixes ghost hits using packet animation and raytracing.
+
+commands:
+  fastghost:
+    description: Control and monitor FastGhost plugin
+    permission: fastghost.admin
+    usage: /fastghost [reload/stats]
